@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -mindepth q -tyoe d| wc -l
